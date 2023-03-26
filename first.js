@@ -3,3 +3,4 @@ for (let item in string){
     console.log(string[item])
 }
 make changes
+hllwol
